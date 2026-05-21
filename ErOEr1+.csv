@@ -1,0 +1,4 @@
+Atom,X,Y,Z,Bondings,Class,Crystal Field Splitting,Class Labels,Zeff,Orbitals,Exchange Atom,SOCC,Spin,BN,gN
+Er1,0,0,0,O1,Er+1,"0, .05, .02, .02, .02, 0, 0",Er+1,27.63,4f,Y,0.011,2.5,0.5,-0.1611
+Er2,7.3,0,0,O1,Er+1,"0, .05, .02, .02, .02, 0, 0",O-2,3.75,"2s,2p",N,0,0,0,0
+O1,3.65,0,3.65,"Er1,Er2",O-2,,,,,,,,,
