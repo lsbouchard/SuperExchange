@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If this code helps your research, please cite the associated Physical Review B article."
+title: "SuperExchange"
+authors:
+  - family-names: "Bouchard"
+    given-names: "Louis-S."
+repository-code: "https://github.com/lsbouchard/SuperExchange"
+license: "PolyForm-Noncommercial-1.0.0"
+version: "0.1.0"
